@@ -11,6 +11,6 @@
 /tmp/
 /nbproject/
 *.php~
-
+/composer.lock
 /00-extra/db/create-empty-database.bat
 
